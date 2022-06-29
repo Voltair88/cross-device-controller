@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404095171403",
+    "firebase_url": "https://fir-cross-device-codelab-ab466-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-cross-device-codelab-ab466",
+    "storage_bucket": "fir-cross-device-codelab-ab466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404095171403:android:1ef760f0604f9197a5c6ce",
+        "android_client_info": {
+          "package_name": "com.example.cross_device_remote_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404095171403-kg64iiv3ecc98bqbibj2avrb19ttom9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJUOmqyQ1tVbpNPbwq7E-dMSXK6FTQpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404095171403-kg64iiv3ecc98bqbibj2avrb19ttom9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
